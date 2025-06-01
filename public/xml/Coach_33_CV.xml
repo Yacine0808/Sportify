@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coach>
+  <id>33</id>
+  <nom>Simon THOMAS</nom>
+  <specialite>football</specialite>
+  <email>simon.thomas@email.fr</email>
+  <video>none</video>
+</coach>
